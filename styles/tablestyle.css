@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+}
+
+table{
+	margin-right: auto;
+	margin-left: auto;
+	width: 900px;
+}
+
+td{
+}
+
+td, tr, table{
+	border: 1px solid black;
+}

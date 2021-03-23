@@ -1,0 +1,28 @@
+a{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+body{
+	text-align: center;
+}
+
+img{
+	width: 200px;
+	border-radius: 15px;
+}
+
+td, tr, th, table{
+	border: 1px solid black;
+}
+
+.tabel{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 400px;
+}
+
+.tx-primary{
+	color: #A52A2A;
+}
